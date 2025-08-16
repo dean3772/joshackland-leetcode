@@ -1,4 +1,51 @@
-﻿namespace LeetCode.Challenges._0051NQueens;
+﻿/*
+51. N-Queens
+Hard
+Topics
+premium lock icon
+Companies
+The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.
+
+Given an integer n, return all distinct solutions to the n-queens puzzle. You may return the answer in any order.
+
+Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.
+
+ 
+
+Example 1:
+
+
+Input: n = 4
+Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
+Explanation: There exist two distinct solutions to the 4-queens puzzle as shown above
+Example 2:
+
+Input: n = 1
+Output: [["Q"]]
+ 
+
+Constraints:
+
+1 <= n <= 9
+Seen this question in a real interview before?
+1/5
+Yes
+No
+Accepted
+1,056,643/1.4M
+Acceptance Rate
+73.5%
+Topics
+Array
+Backtracking
+template
+public class Solution {
+    public IList<IList<string>> SolveNQueens(int n) {
+        
+    }
+}
+ */
+namespace LeetCode.Challenges._0051NQueens;
 
 public class Solution
 {

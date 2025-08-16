@@ -1,4 +1,52 @@
-﻿using System.Data;
+﻿/*
+
+Code
+Testcase
+Test Result
+Test Result
+59. Spiral Matrix II
+Medium
+Topics
+premium lock icon
+Companies
+Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.
+
+ 
+
+Example 1:
+
+
+Input: n = 3
+Output: [[1,2,3],[8,9,4],[7,6,5]]
+Example 2:
+
+Input: n = 1
+Output: [[1]]
+ 
+
+Constraints:
+
+1 <= n <= 20
+Seen this question in a real interview before?
+1/5
+Yes
+No
+Accepted
+712,531/966.4K
+Acceptance Rate
+73.7%
+Topics
+Array
+Matrix
+Simulation
+template
+public class Solution {
+    public int[][] GenerateMatrix(int n) {
+        
+    }
+}
+ */
+using System.Data;
 
 namespace LeetCode.Challenges._0059SpiralMatrixII;
 

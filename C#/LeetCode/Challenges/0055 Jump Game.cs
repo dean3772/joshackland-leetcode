@@ -1,4 +1,51 @@
-﻿namespace LeetCode.Challenges._0055JumpGame;
+﻿/*
+55. Jump Game
+Medium
+Topics
+premium lock icon
+Companies
+You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
+
+Return true if you can reach the last index, or false otherwise.
+
+ 
+
+Example 1:
+
+Input: nums = [2,3,1,1,4]
+Output: true
+Explanation: Jump 1 step from index 0 to 1, then 3 steps to the last index.
+Example 2:
+
+Input: nums = [3,2,1,0,4]
+Output: false
+Explanation: You will always arrive at index 3 no matter what. Its maximum jump length is 0, which makes it impossible to reach the last index.
+ 
+
+Constraints:
+
+1 <= nums.length <= 104
+0 <= nums[i] <= 105
+Seen this question in a real interview before?
+1/5
+Yes
+No
+Accepted
+2,762,357/6.9M
+Acceptance Rate
+39.8%
+Topics
+Array
+Dynamic Programming
+Greedy
+template
+public class Solution {
+    public bool CanJump(int[] nums) {
+        
+    }
+}
+ */
+namespace LeetCode.Challenges._0055JumpGame;
 
 public class Solution
 {

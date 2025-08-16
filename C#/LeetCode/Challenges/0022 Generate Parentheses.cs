@@ -1,4 +1,40 @@
-﻿namespace LeetCode.Challenges._0022GenerateParentheses;
+﻿/*
+22. Generate Parentheses
+Medium
+Topics
+premium lock icon
+Companies
+Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
+ 
+
+Example 1:
+
+Input: n = 3
+Output: ["((()))","(()())","(())()","()(())","()()()"]
+Example 2:
+
+Input: n = 1
+Output: ["()"]
+ 
+
+Constraints:
+
+1 <= n <= 8
+Seen this question in a real interview before?
+1/5
+Yes
+No
+Accepted
+2,492,095/3.2M
+Acceptance Rate
+77.5%
+Topics
+String
+Dynamic Programming
+Backtracking 
+ */
+namespace LeetCode.Challenges._0022GenerateParentheses;
 
 public class Solution
 {
